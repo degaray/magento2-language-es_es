@@ -1483,7 +1483,7 @@
 "YTD","YTD","module","Magento_Backend"
 "2YTD","2YTD","module","Magento_Backend"
 "Authentication storage is incorrect.","La autentificación de almacenamiento es incorrecta.","module","Magento_Backend"
-"You did not sign in correctly or your account is temporarily disabled.","Usted no se inscribió correctamente o su cuenta se ha desactivado temporalmente.","module","Magento_Integration"
+"You did not sign in correctly or your account is temporarily disabled.", "Contraseña incorrecta. Ingresa en ¿Olvidaste tu contraseña? para cambiarla", "module", "Magento_Integration"
 "Authentication error occurred.","Ocurrió un error de autenticación.","module","Magento_Backend"
 "Order","Encargar","module","Magento_Paypal"
 "Access denied","Acceso denegado","module","Magento_Backend"
